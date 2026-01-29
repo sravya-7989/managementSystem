@@ -1,0 +1,6 @@
+type nul > .gitignore
+notepad .gitignore
+.venv/
+venv/
+env/
+.virtualenv/
